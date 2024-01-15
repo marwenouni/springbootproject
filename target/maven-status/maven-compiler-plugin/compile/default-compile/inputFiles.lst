@@ -1,0 +1,16 @@
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\config\JwtTokenUtil.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\DemoApplication.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\entity\Role.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\entity\User.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\config\WebSecurity.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\service\ProduitMockServiceImpl.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\config\JwtAuthenticationEntryPoint.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\dto\AuthResponseDto.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\config\JwtRequestFilter.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\dto\LoginDto.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\entity\Produit.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\Repository\UserRepository.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\service\IProduitService.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\controller\ProduitController.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\service\JwtUserDetailsService.java
+C:\Users\ounim\Documents\projet websecurity authentification\eclipse\spring-boot-jwt-V2\src\main\java\com\myapp\demo\controller\JwtAuthenticationController.java

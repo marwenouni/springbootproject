@@ -1,0 +1,17 @@
+com\myapp\demo\DemoApplication.class
+com\myapp\demo\service\JwtUserDetailsService.class
+com\myapp\demo\dto\LoginDto.class
+com\myapp\demo\controller\ProduitController.class
+com\myapp\demo\entity\Produit.class
+com\myapp\demo\service\ProduitMockServiceImpl.class
+com\myapp\demo\dto\AuthResponseDto.class
+com\myapp\demo\config\JwtRequestFilter.class
+com\myapp\demo\config\JwtTokenUtil.class
+com\myapp\demo\entity\Role.class
+com\myapp\demo\config\WebSecurity.class
+com\myapp\demo\Repository\UserRepository.class
+com\myapp\demo\controller\JwtAuthenticationController.class
+com\myapp\demo\entity\User$UserBuilder.class
+com\myapp\demo\config\JwtAuthenticationEntryPoint.class
+com\myapp\demo\entity\User.class
+com\myapp\demo\service\IProduitService.class
